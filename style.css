@@ -26,3 +26,9 @@ body {
     font-size: 30px;
     color: rgb(2, 2, 114);
 }
+.mn_output, .ma_output, .result {
+    color: darkblue;
+}
+#head {
+    text-decoration: darkturquoise underline;
+}
